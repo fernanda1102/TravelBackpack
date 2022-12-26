@@ -8,8 +8,6 @@ Mochila CSS design por Tricia Akatz.
 
 ![image](https://user-images.githubusercontent.com/108702091/208736571-eaedf69b-20cc-426c-9ae4-0cdb5c90369b.png)
 
-
-
 1 - Manipulando dados
 
 • Criamos o arquivo JavaScript com o nome: main.js;
@@ -40,4 +38,4 @@ Mochila CSS design por Tricia Akatz.
 • Desenvolvemos uma função para deletar itens de um array, utilizando os métodos splice(), find() e remove();
 • Refatoramos a condicional da const itemAtual
 
-![image](https://user-images.githubusercontent.com/108702091/209568707-5382a51c-dca7-48be-9f55-8e855c0bdc30.png)
+
